@@ -1,7 +1,11 @@
-# My Data Analysis App
+# Chainlit Dockerized Application
 
-## How to Run
+This repository demonstrates how to run a Chainlit application inside a Docker container. The app requires an `GEMINI_API_KEY` environment variable.
 
-1. Build Docker image:
+## Setup Instructions
+
+### 1. Clone the Repository
+
 ```bash
-docker build -t data-app .
+git clone https://github.com/yourusername/chainlit-docker-app.git
+cd chainlit-docker-app
