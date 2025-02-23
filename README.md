@@ -7,5 +7,5 @@ This repository demonstrates how to run a Chainlit application inside a Docker c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chainlit-docker-app.git
+git clone https://github.com/teerandaz/chainlit-docker-app.git
 cd chainlit-docker-app
