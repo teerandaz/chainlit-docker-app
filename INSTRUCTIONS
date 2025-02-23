@@ -1,0 +1,10 @@
+HERE ARE A THINGS TO NOTE AND GENERAL INSTRUCTIONS :
+
+I have used Gemini Api instead of OpenAI Api while making sure everything in the problem statement is followed.
+I was facing errors while giving credit card informationa and buying credits for OpenAI api and hence used Gemini API. 
+
+My Gemini API key is present in the '.env' file and you can use that. I have built the app with 'gemini-1.5-flash' model.
+
+Use the following code to build and run the application using DOCKER containers in your local folder - 
+BUILD CONTAINER : docker build --no-cache -t chainlit-app .
+RUN CONTAINER : docker run -it -p 8000:8000 --env-file .env chainlit-app
