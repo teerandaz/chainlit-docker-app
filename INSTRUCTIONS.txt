@@ -1,7 +1,4 @@
-HERE ARE A THINGS TO NOTE AND GENERAL INSTRUCTIONS :
-
-I have used Gemini Api instead of OpenAI Api while making sure everything in the problem statement is followed.
-I was facing errors while giving credit card informationa and buying credits for OpenAI api and hence used Gemini API. 
+HERE ARE A THINGS TO NOTE AND GENERAL INSTRUCTIONS : 
 
 My Gemini API key is present in the '.env' file and you can use that. I have built the app with 'gemini-1.5-flash' model.
 
